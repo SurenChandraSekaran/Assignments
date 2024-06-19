@@ -6,7 +6,7 @@ In my opinion, our report could have been improved if we used more mind maps and
 
 ## Assignment 2: Website
 From this assignment, I have had a valuable learning experience that encompasses a variety of technical skills. I learned how to structure a web page using HTML elements like headings, paragraphs, links, images, and lists.
-I also discovered how to style and bring my website to life by using CSS and Javascript. I have also learned how to deploy a website using platforms like GitHub Pages, Netlify, or Vercel. This involved understanding the basics of DNS, hosting, and ensuring your site is accessible to others.
+I also discovered how to style and bring my website to life by using CSS and Javascript. I have also learned how to deploy a website using platforms like GitHub Pages, Netlify, or Vercel. This involved understanding the basics of DNS, hosting, and ensuring the site is accessible to others.
 In my opinion, our website could have been improved with better understanding of CSS and Javascript which would have enabled us to customize and style the website further to make it more attractive.
 
 ## Assignment 3: GitHub E-portfolio
